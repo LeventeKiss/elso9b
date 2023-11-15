@@ -1,2 +1,2 @@
 # elso9b
-Ez az első sorunk
+Ez az első sorunk!
